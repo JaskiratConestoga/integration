@@ -9,3 +9,7 @@ Test 1:
   test_candidate_selection.py
 
 Test 2:
+
+  insurance_claim.py
+
+  test_insurance_claim.py

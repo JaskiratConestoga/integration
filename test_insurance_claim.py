@@ -7,4 +7,4 @@ def test_normal_insurance_claim():
 
     claim_amount = insurance_claim.calculate_claim_amount(student_name, insurance_type, total_claim_amount)
 
-    assert claim_amount = 700
+    assert claim_amount == total_claim_amount
